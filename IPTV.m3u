@@ -5,7 +5,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=670952&e
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671353&extension=m3u8
 #EXTINF:-1 tvg-id="ΕΡΤ3 GR" tvg-name="ERT3.HD.DTT.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert3-gr.png?raw=true" group-title="[GR] TV",ERT 3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671352&extension=m3u8
-#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ant1-gr.png?raw=true" group-title="[GR] TV",ANT1
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ant1-gr.png?raw=true" group-title="[GR] TV",ANT1.gr
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=194797&extension=m3u8
 #EXTINF:-1 tvg-id="ALPHA.HD.DTT.gr" tvg-name="Alpha" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/alpha-tv-gr.png?raw=true" group-title="[GR] TV",Alpha
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=194714&extension=m3u8
