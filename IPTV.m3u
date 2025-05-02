@@ -1,19 +1,19 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Anisixos/EPG_SSIPTV/refs/heads/main/epg2.xml"
-#EXTINF:-1 tvg-id="ΕΡΤ1 GR" tvg-name="ERT 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert1-gr.png?raw=true" group-title="[GR] TV",ERT 1
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz"
+#EXTINF:-1 tvg-id="ΕΡΤ1 GR" tvg-name="ERT.1.HD.DTT.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert1-gr.png?raw=true" group-title="[GR] TV",ERT 1
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=670952&extension=m3u8
-#EXTINF:-1 tvg-id="ΕΡΤ2 GR" tvg-name="ERT 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert2-gr.png?raw=true" group-title="[GR] TV",ERT 2
+#EXTINF:-1 tvg-id="ΕΡΤ2 GR" tvg-name="ERT2.HD.DTT.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert2-gr.png?raw=true" group-title="[GR] TV",ERT 2
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671353&extension=m3u8
-#EXTINF:-1 tvg-id="ΕΡΤ3 GR" tvg-name="ERT 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert3-gr.png?raw=true" group-title="[GR] TV",ERT 3
+#EXTINF:-1 tvg-id="ΕΡΤ3 GR" tvg-name="ERT3.HD.DTT.gr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ert3-gr.png?raw=true" group-title="[GR] TV",ERT 3
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671352&extension=m3u8
-#EXTINF:-1 tvg-id="ANT1Greece(src01).gr" tvg-name="ANT1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ant1-gr.png?raw=true" group-title="[GR] TV",ANT1
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/ant1-gr.png?raw=true" group-title="[GR] TV",ANT1
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=194797&extension=m3u8
-#EXTINF:-1 tvg-id="AlphaGreece(src01).gr" tvg-name="Alpha" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/alpha-tv-gr.png?raw=true" group-title="[GR] TV",Alpha
+#EXTINF:-1 tvg-id="ALPHA.HD.DTT.gr" tvg-name="Alpha" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/alpha-tv-gr.png?raw=true" group-title="[GR] TV",Alpha
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=194714&extension=m3u8
 #EXTINF:-1 tvg-id="Star(src01).gr" tvg-name="Star" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/star-channel-gr.png?raw=true" group-title="[GR] TV",Star
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671348&extension=m3u8
 #EXTINF:-1 tvg-id="Skai(src01).gr" tvg-name="Skai" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/skai-tv-gr.png?raw=true" group-title="[GR] TV",Skai
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=194715&extension=m3u8
-#EXTINF:-1 tvg-id="MEGA(src01).gr" tvg-name="Mega" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/mega-channel-gr.png?raw=true" group-title="[GR] TV",Mega
+#EXTINF:-1 tvg-id="MEGA.HD.gr" tvg-name="Mega" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/greece/mega-channel-gr.png?raw=true" group-title="[GR] TV",Mega
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671347&extension=m3u8
 #EXTINF:-1 tvg-id="OPENBEYOND(src01).gr" tvg-name="Open Beyond" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/e/e5/Open_TV_logo.png/800px-Open_TV_logo.png?20191215233659" group-title="[GR] TV",Open Beyond
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:18:e9:02&stream=671346&extension=m3u8
